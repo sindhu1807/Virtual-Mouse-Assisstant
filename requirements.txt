@@ -1,19 +1,4 @@
-Virtual Mouse using Hand Gestures – `requirements.txt`**
-
-```txt
 opencv-python
 mediapipe
 pyautogui
 numpy
-```
-
-> These are all the packages used in the `virtual_mouse.py` script.
-
----
-
-### 📦 How to Use
-
-After adding the file to your repo, users can install all dependencies by running:
-
-```bash
-pip install -r requirements.txt
