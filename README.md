@@ -58,6 +58,10 @@ Gesture Reference
 | Thumb + Ring finger pinch   | Scroll up       |
 | Thumb + Pinky finger pinch  | Scroll down     |
 | Open palm                   | Take screenshot |
+ 
+Screenshots
+
+![Screenshot (348)](https://github.com/user-attachments/assets/1a0abc70-7be8-4f94-b7b8-0da778f16c83)
 
 Notes
 
